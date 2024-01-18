@@ -1,0 +1,80 @@
+body{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    
+}
+
+.head{
+    border: 1px solid rgb(252, 246, 246);
+    height: auto;
+    width: 100%;
+    background-color: black;
+    
+}
+
+.home, .movies, .info, .sche{
+    display: inline;
+    margin: 50px;
+    color: white;
+
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 0px;
+    padding-top: 50px;
+}
+
+
+
+.fav{
+    color: white;
+    font-weight: bold;
+        
+}
+
+
+
+.movies-list{
+    background-image: url("https://i.pinimg.com/564x/39/0e/1e/390e1e3ed860bcc23fea7fb84cfd393b.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px 0px;
+    position: relative;
+    width: 100%;
+
+    
+}
+.films{
+    margin: 0;
+    padding: 0 150px;
+}
+
+.film-1, .film-2, .film-3, .film-4, .film-5, .film-6, .film-7, .film-8, .film-9, .film-10, .film-11, .film-12{
+    display: inline;
+    
+    
+}
+
+.footer{
+    border: 1px solid rgb(233, 223, 223);
+    height: auto;
+    width: 100%;
+    background-color: black;
+}
+p{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(253, 252, 252);
+    text-align: center;
+}
+
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .ten, .eleven, .twelve{
+    height: 380px;
+    width: 250px;
+    border: 1px solid rgb(243, 239, 239);
+    margin: 30px;
+}

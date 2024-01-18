@@ -1,0 +1,74 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+
+.banner{
+    height: auto;
+    width: 100%;
+    background-color: black;
+    border: 1px solid white;
+}
+
+.week-table{
+    margin: 0px 400px;
+
+}
+h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.home, .movies, .info, .sch{
+    display: inline;
+    color: white;
+    padding: 100px 50px;
+}    
+
+h1{
+    padding: 50px ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    font-family: monospace;
+    margin: 0px
+    
+}
+h2{
+    padding: 50px;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color:white
+    
+    
+}
+
+.background{
+    background-image: url('https://i.pinimg.com/originals/39/0e/1e/390e1e3ed860bcc23fea7fb84cfd393b.jpg');
+    background-size: cover;
+
+}
+
+table{
+    height: 500px;
+    width: 1000px;
+    margin: 0px;
+    
+}
+
+.foot{
+    height: 100px;
+    width: 100%;
+    border: 1px solid white;
+    background-color: black;
+    
+}
+th{
+    color: white;
+}
+
